@@ -15,5 +15,6 @@ Pandas · Scikit-learn · Signal Processing · PostgreSQL · Git
 - 🌍 Geospatial pipeline for renewable energy site scoring
 - 🔭 Bayesian statistical modeling of observational bias in galaxy survey data
 
-📍 Tel Aviv &nbsp;|&nbsp; 🇳🇱 Dutch/Israeli
+📍 Tel Aviv &nbsp;|&nbsp; 🇳🇱 Dutch/Israeli 🇮🇱
 📫 benjamin.ben.harosh@gmail.com
+🔗 https://www.linkedin.com/in/benjamin-ben-harosh-02701334b/
