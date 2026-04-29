@@ -16,5 +16,7 @@ Pandas · Scikit-learn · Signal Processing · PostgreSQL · Git
 - 🔭 Bayesian statistical modeling of observational bias in galaxy survey data
 
 📍 Tel Aviv &nbsp;|&nbsp; 🇳🇱 Dutch/Israeli 🇮🇱
-📫 benjamin.ben.harosh@gmail.com
+
+📫 benjamin.ben.harosh@gmail.com 
+
 🔗 https://www.linkedin.com/in/benjamin-ben-harosh-02701334b/
