@@ -1,16 +1,19 @@
-## Hi there 👋
+# Benjamin Ben Harosh
+### Data & Backend Engineer · Python · Scientific Computing
 
-<!--
-**BenjaminBenHarosh/BenjaminBenHarosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-grade data pipelines, physics-informed simulations, 
+and ML systems — with a focus on clean architecture, reproducibility, 
+and turning complex numerical data into structured, actionable outputs.
 
-Here are some ideas to get you started:
+**Stack**
+Python · FastAPI · Pydantic · Docker · pytest · NumPy · SciPy · 
+Pandas · Scikit-learn · Signal Processing · PostgreSQL · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent work**
+- 🛰️ Electromagnetic capsule simulation service with REST API (Moonshot Space)
+- 🫁 Explainable CNN for pneumonia detection — GradCAM, calibration, FastAPI endpoint
+- 🌍 Geospatial pipeline for renewable energy site scoring
+- 🔭 Bayesian statistical modeling of observational bias in galaxy survey data
+
+📍 Tel Aviv &nbsp;|&nbsp; 🇳🇱 Dutch/Israeli
+📫 benjamin.ben.harosh@gmail.com
